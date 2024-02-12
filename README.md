@@ -19,13 +19,13 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot/Frontend-Mentor-NFT.png)
+![](./screenshot/Frontend-Mentor-Profile-card-component.png)
 
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/nft-QoAF5irrHY)
-- Live Site URL: [Blog Card](https://cris575.github.io/NFT/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/profile-card-RkvOOLAwGs)
+- Live Site URL: [Blog Card](https://github.com/Cris575/Profile-card.git)
 
 ### Built with
 
