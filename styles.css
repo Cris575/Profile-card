@@ -28,9 +28,8 @@ body {
     overflow: hidden;
     background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
     background-repeat: no-repeat;
-    background-position: right 50vw bottom 50vh, left 50vw top 50vh;
+    background-position: right 52vw bottom 35vh, left 48vw top 52vh;
 }
-
 h2 {
     font-size: 1em;
     font-weight: bold;
@@ -59,6 +58,7 @@ p.stat {
     overflow: hidden;
     box-shadow: 0px 0px 100px 10px hsla(0, 0%, 0%, 0.2);
     width: 80%;
+    margin: 0 auto;
 }
 
 .background {
